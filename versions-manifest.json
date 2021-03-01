@@ -1,12 +1,23 @@
 [
   {
+    "version": "2.7.0",
+    "stable": true,
+    "release_url": "https://github.com/Azure/az-ps-module-versions/releases/tag/2.7.0-611126904",
+    "files": [
+      {
+        "filename": "az_2.7.0.zip",
+        "download_url": "https://github.com/Azure/az-ps-module-versions/releases/download/2.7.0-611126904/az_2.7.0.zip"
+      }
+    ]
+  },
+  {
     "version": "2.6.0",
     "stable": true,
-    "release_url": "https://github.com/Azure/az-ps-module-versions/releases/tag/2.6.0-611020557",
+    "release_url": "https://github.com/Azure/az-ps-module-versions/releases/tag/2.6.0-611039515",
     "files": [
       {
         "filename": "az_2.6.0.zip",
-        "download_url": "https://github.com/Azure/az-ps-module-versions/releases/download/2.6.0-611020557/az_2.6.0.zip"
+        "download_url": "https://github.com/Azure/az-ps-module-versions/releases/download/2.6.0-611039515/az_2.6.0.zip"
       }
     ]
   },
