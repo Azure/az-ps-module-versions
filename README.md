@@ -3,6 +3,8 @@ This repository contains the code and scripts that we use to prepare Az PowerShe
 The file [versions-manifest.json](./versions-manifest.json) contains the list of available and released versions.  
 
 > Caution: this is prepared for and only permitted for use by `microsoft/azure-pipelines-tasks` and `Azure/powershell` action.
+> 
+> If you have any concerns related to the Az PowerShell modules then please refer to [Azure/azure-powershell](https://github.com/Azure/azure-powershell) repo.
 
 **Status**: Currently under development and in use for beta and preview actions.  This repo is undergoing rapid changes.
 
