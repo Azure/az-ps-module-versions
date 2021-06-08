@@ -418,6 +418,17 @@
     ]
   },
   {
+    "version": "1.10.0",
+    "stable": true,
+    "release_url": "https://github.com/Azure/az-ps-module-versions/releases/tag/1.10.0-916708839",
+    "files": [
+      {
+        "filename": "az_1.10.0.zip",
+        "download_url": "https://github.com/Azure/az-ps-module-versions/releases/download/1.10.0-916708839/az_1.10.0.zip"
+      }
+    ]
+  },
+  {
     "version": "1.8.0",
     "stable": true,
     "release_url": "https://github.com/Azure/az-ps-module-versions/releases/tag/1.8.0-610768886",
