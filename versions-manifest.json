@@ -495,6 +495,17 @@
     ]
   },
   {
+    "version": "2.0.1",
+    "stable": true,
+    "release_url": "https://github.com/Azure/az-ps-module-versions/releases/tag/2.0.1-1609214596",
+    "files": [
+      {
+        "filename": "az_2.0.1.zip",
+        "download_url": "https://github.com/Azure/az-ps-module-versions/releases/download/2.0.1-1609214596/az_2.0.1.zip"
+      }
+    ]
+  },
+  {
     "version": "2.0.0",
     "stable": true,
     "release_url": "https://github.com/Azure/az-ps-module-versions/releases/tag/2.0.0-610801048",
