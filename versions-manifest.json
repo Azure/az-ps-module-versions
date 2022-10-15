@@ -1,5 +1,16 @@
 [
   {
+    "version": "9.0.0",
+    "stable": true,
+    "release_url": "https://github.com/Azure/az-ps-module-versions/releases/tag/9.0.0-3253788507",
+    "files": [
+      {
+        "filename": "az_9.0.0.zip",
+        "download_url": "https://github.com/Azure/az-ps-module-versions/releases/download/9.0.0-3253788507/az_9.0.0.zip"
+      }
+    ]
+  },
+  {
     "version": "8.3.0",
     "stable": true,
     "release_url": "https://github.com/Azure/az-ps-module-versions/releases/tag/8.3.0-3011641360",
